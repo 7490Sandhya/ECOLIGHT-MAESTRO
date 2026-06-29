@@ -48,8 +48,8 @@ The system continuously monitors the current time using the RTC. During night ho
 
 **Sandhyarani Suryawanshi**
 
-Bachelor of Engineering (Electronics & Telecommunication)
+BE – Electronics & Telecommunication Engineering
 
 VPKBIET, Baramati
 
-Vector Mini Project
+**Vector Mini Project**
