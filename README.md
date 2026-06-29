@@ -51,3 +51,5 @@ The system continuously monitors the current time using the RTC. During night ho
 Bachelor of Engineering (Electronics & Telecommunication)
 
 VPKBIET, Baramati
+
+Vector Mini Project
